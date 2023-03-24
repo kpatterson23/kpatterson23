@@ -1,4 +1,12 @@
-### Hi there 👋
+### Howdy!
+
+I'm an aspiring front-end web developer studying Bootstrap, React and React Native at Nucamp. I have a deep passion for building the most beautiful websites you've seen, so keep me in mind for future projects! 
+
+Here's what I'm going to working on soon: 
+- Learning Tailwind CSS
+- Learning Vite.js
+- Building a portfolio website
+- Building an e-commerce website in React
 
 <!--
 **kpatterson23/kpatterson23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
